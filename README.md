@@ -1,5 +1,3 @@
-I realized the problem with the previous versions: they have the AI-smell. How is this?
-
 My name is Rob and I'm just beginning my journey building agentic AI systems. 
 
 I have 10+ years experience in biological systems engineering for disease modeling and drug development. Recently I developed an automated youtube shorts engine in just a few hours using GPT5 & Gemini3 and since then, I've been hooked. I'm currently teaching myself everything about agentic AI architecture using an army of LLM personas. My newly spawned GitHub/documentation mentor informed me that I need to be documenting my progress, so here I am (it tried to write this README for me but I wouldn't let it).
